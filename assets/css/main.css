@@ -26,6 +26,10 @@
 		line-height: 1;
 	}
 
+	.extra {
+		margin-top: 15px;
+	}
+
 	ol, ul {
 		list-style: none;
 	}
