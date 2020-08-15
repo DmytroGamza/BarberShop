@@ -22,6 +22,10 @@
 		display: block;
 	}
 
+.size-img {
+	height: 350px;
+}
+
 	body {
 		line-height: 1;
 	}
